@@ -70,7 +70,7 @@ let td = `${pickRandom([d1,d2,d3,d4,d5,d6])}`
     }
     await conn.reply(m.chat, '*Enviando el menu . . .*', fload, { contextInfo:{ forwardingScore: 2022, isForwarded: true, externalAdReply: {title: '👋 Hola!!', body: saludo, sourceUrl: global.ig, thumbnail: await (await fetch(pp)).buffer() }}})
 m.react('🚀')     
-let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
+let menu = `╔═══[ A R G U S S]═══╗
 ║╭──────────────
 ║├⫹⫺ *Nombre :* ${name}
 ║├⫹⫺ *Limite :* ${diamond}
@@ -82,8 +82,8 @@ let menu = `╔═══[ ＵＳＵＡＲＩＯＳ ]═══╗
 
 ╔═══[ ＩＮＦＯＢＯＴ ]═══╗
 ║╭──────────────
-║├⫹⫺ *Creador :* Azami 
-║├⫹⫺ *Numero:* wa.me/59894808483
+║├⫹⫺ *Creador :* Ale 
+║├⫹⫺ *Numero:* wa.me/543804505177
 ║├⫹⫺ *Tiempo Activo:* ${uptime}
 ║├⫹⫺ *Registrado :* ${rtotalreg} de ${totalreg} usuarios
 ║╰────────────── 
